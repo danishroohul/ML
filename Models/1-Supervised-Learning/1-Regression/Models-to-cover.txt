@@ -1,0 +1,70 @@
+### Regression Models:
+
+**Linear Regression Models:**
+1. Ordinary Least Squares (OLS) Regression
+1a. Ridge Regression
+1b. Lasso Regression
+2. Elastic Net Regression
+3. Polynomial Regression
+4. Robust Regression
+5. Principal Component Regression (Misc)
+
+**Bayesian Regression Models:**
+6. Bayesian Linear Regression
+7. Bayesian Ridge Regression
+8. Bayesian Lasso
+9. Gaussian Process Regression
+
+**Tree-Based Regression Models:**
+10. Decision Trees
+
+**Ensemble Regression Models:**
+11. Random Forest
+12. Gradient Boosting Machines (GBM)
+13. XGBoost
+14. LightGBM
+15. CatBoost
+
+**Support Vector Regression:**
+16. Support Vector Regression (SVR)
+
+**Non-Parametric Regression Models:**
+17. K-Nearest Neighbors (KNN)
+18. Kernel Regression
+19. Local Polynomial Regression
+20. Nadaraya-Watson Kernel Regression
+
+**Subset Selection Models:**
+21. Stepwise Regression (Including Forward Selection and Backward Elimination)
+
+**Partial Least Squares (PLS) Models:**
+22. Ridge Partial Least Squares (Ridge PLS)
+23. Lasso Partial Least Squares (Lasso PLS)
+
+**Generalized Regression Models:**
+24. Generalized Additive Models (GAM)
+25. Tobit Regression
+26. Quantile Regression
+27. Isotonic Regression
+
+**Segmented Regression Models:**
+28. Piecewise Regression
+29. Segmented Regression
+
+**Sparse Regression Models:**
+30. Least Absolute Shrinkage and Selection Operator (LARS)
+31. Lasso Least Angle Regression (LARS-Lasso)
+
+**Ordinal Regression Models:**
+32. Proportional Odds Model
+33. Continuation Ratio Model
+34. Adjacent Category Model
+
+**Advanced Regression Models:**
+35. Zero-Inflated Regression
+36. Hurdle Models
+37. Two-Part Models
+38. Truncated Regression
+39. Mixture Regression Models
+40. Fractional Regression Models
+41. Spatial Regression Models

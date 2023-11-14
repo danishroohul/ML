@@ -1,0 +1,43 @@
+### Classification Models:
+
+**Linear Classification Models:**
+1. Binary Logistic Regression
+2. Multinomial Logistic Regression
+3. Linear Discriminant Analysis (LDA)
+
+**Tree-Based Classification Models:**
+4. Decision Trees
+
+**Nearest Neighbor-Based Models:**
+5. K-Nearest Neighbors (KNN)
+6. Radius Neighbors
+
+**Support Vector Machine Variants:**
+7. C-Support Vector Classification (C-SVC)
+8. Nu-Support Vector Classification (Nu-SVC)
+9. One-Class SVM
+
+**Ensemble Classification Models:**
+10. Random Forest
+11. Extra Trees (Extremely Randomized Trees)
+12. Isolation Forest
+13. AdaBoost
+14. Gradient Boosting Machines (GBM)
+15. XGBoost
+16. LightGBM
+17. CatBoost
+18. Voting Classifiers
+19. Stacking
+20. Bagging (Bootstrap Aggregating)
+
+**Bayesian Classification Models:**
+21. Naive Bayes Classifier
+22. Bayesian Networks
+23. Bayesian Logistic Regression
+24. Bayesian Belief Network
+
+**Other Classification Models:**
+25. Gaussian Naive Bayes
+26. Quadratic Discriminant Analysis (QDA)
+27. RBF (Radial Basis Function) Network
+28. Rocchio Classifier

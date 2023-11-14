@@ -1,9 +1,0 @@
-1. Ordinary Least Squares (OLS) Regression
-2. Ridge Regression
-3. Lasso Regression
-4. Elastic Net Regression
-5. Polynomial Regression
-6. Bayesian Linear Regression
-7. Robust Regression
-8. Stepwise Regression
-9. Principal Component Regression
